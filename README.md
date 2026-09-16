@@ -5,7 +5,7 @@
 **What we are building, and what shipped when.**
 
 [![Status](https://img.shields.io/badge/platform-live-3aa655?style=flat-square)](https://volvevision.com)
-[![Products](https://img.shields.io/badge/products-4-2a6baa?style=flat-square)](products/README.md)
+[![Products](https://img.shields.io/badge/surfaces-6-2a6baa?style=flat-square)](products/README.md)
 [![Languages](https://img.shields.io/badge/languages-EN%20·%20RU%20·%20ES%20·%20DE-2a6baa?style=flat-square)](#the-catalogue-today)
 [![Countries](https://img.shields.io/badge/countries-98-2a6baa?style=flat-square)](#the-catalogue-today)
 [![Updated](https://img.shields.io/badge/updated-September%202026-6b7683?style=flat-square)](updates/2026/2026-09.md)
@@ -36,8 +36,8 @@ not internals. See [what we publish](docs/what-we-publish.md) for the reasoning.
 | Product | What it is | Status | Detail |
 |---|---|---|---|
 | **Web platform** | The live camera catalogue, maps, editorial and accounts at [volvevision.com](https://volvevision.com) | Live | [History](products/web-platform.md) |
-| **Mobile apps** | iOS and Android clients for watching, saving and submitting cameras | Live (iOS), Android in release prep | [History](products/mobile-apps.md) |
-| **VolveMenu** | Digital menu boards for cafes, bars and retail, managed from a phone | Live with first venues | [History](products/volvemenu.md) |
+| **Mobile apps** | iOS and Android clients for watching, saving and submitting cameras | Live on iOS and Android | [History](products/mobile-apps.md) |
+| **VolveMenu** | Digital menu boards for cafes, bars and retail, managed from a phone | Deployed, trial installations only | [History](products/volvemenu.md) |
 | **Video analytics** | Counting and detection on top of camera feeds, for business use | In development | [Detail](products/video-analytics.md) |
 | **Operations console** | Internal moderation, publishing and quality tooling | Live, internal only | [History](products/operations-console.md) |
 | **Brand and 3D** | Identity, mascot and the visual language across every surface | Ongoing | [Detail](products/brand.md) |

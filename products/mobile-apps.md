@@ -1,8 +1,9 @@
 # Mobile apps
 
-Native iOS and Android clients for the camera catalogue. Development started in July 2026. The
-iOS app is live in beta distribution at version **1.2**; the Android build is in release
-preparation.
+Native iOS and Android clients for the camera catalogue. Development started in July 2026. Both
+apps are publicly available: the iOS app has been on the App Store since 29 July 2026 and the
+Android app on Google Play since 22 July 2026. The published version on both stores is **1.1**.
+Version 1.2 is built and in internal testing, and has not been submitted to either store.
 
 ---
 
@@ -11,7 +12,7 @@ preparation.
 - The full catalogue on a phone: browse, search, filter, map.
 - Watch a live camera, save it, share it, snapshot it.
 - Cameras near you, and a map that behaves like a map should.
-- Home-screen widgets, quick actions and voice shortcuts.
+- Home-screen widgets on both platforms; quick actions and voice shortcuts on iOS.
 - Multi-camera view for watching several feeds at once.
 - Offline access to saved cameras.
 - Account, notifications and security settings shared with the website.
@@ -21,7 +22,10 @@ preparation.
 
 ## Release history
 
-### 1.2 - September 2026
+### 1.2 - built September 2026, not yet in the stores
+
+This release is complete and in internal testing. It has not been submitted to the App Store or
+uploaded to Google Play, so the items below are not yet in the public apps.
 
 - **Added** the account security centre: sessions across all devices, recent security events,
   and remote sign-out.
@@ -44,10 +48,10 @@ The first release. Built from nothing in a single month:
 
 - **Added** the core app: catalogue, camera player, map, search, favourites, news and profile.
 - **Added** light, dark and system themes; English, Russian and Spanish.
-- **Added** sign in with Apple and Google, and in-app account deletion.
+- **Added** sign in with Apple on iOS and Google sign-in, plus in-app account deletion.
 - **Added** live viewer counts and live reactions on camera pages.
-- **Added** home-screen widgets on both platforms, iOS quick actions, voice shortcuts,
-  picture-in-picture and spotlight search for saved cameras.
+- **Added** home-screen widgets and picture-in-picture on both platforms, and iOS quick actions,
+  voice shortcuts and spotlight search for saved cameras.
 - **Added** offline caching of saved cameras.
 - **Added** "cameras near me" using device location.
 - **Added** camera submission and owner analytics, matching what the website offers.

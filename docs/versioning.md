@@ -23,7 +23,7 @@ Apps are shipped through app stores, so they carry real version numbers that use
 
 | App | Current | Scheme |
 |---|---|---|
-| Volve Vision mobile | 1.2 | `MAJOR.MINOR`, store builds counted separately |
+| Volve Vision mobile | 1.1 published, 1.2 in internal testing | `MAJOR.MINOR`, store builds counted separately |
 | VolveMenu | 1.0 | `MAJOR.MINOR`, store builds counted separately |
 
 `MAJOR` changes when the shape of the product changes. `MINOR` changes when features are added.

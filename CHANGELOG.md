@@ -9,7 +9,7 @@ Apps carry their own version numbers and are listed under the release they shipp
 ---
 
 ## [2026.09] - September 2026
-*Mobile app 1.2*
+*Mobile app 1.2, in internal testing and not yet released to the stores*
 
 ### Added
 - Account security centre on the website, the mobile app and the VolveMenu management app: active
@@ -43,8 +43,8 @@ Apps carry their own version numbers and are listed under the release they shipp
 *Mobile app 1.1, VolveMenu 1.0*
 
 ### Added
-- **VolveMenu**, complete: venues, rooms, menus, screen pairing, offline delivery, real-time
-  updates, media handling, push notifications, snapshots, share links, demo content.
+- **VolveMenu**, complete: venues, menus, screen pairing, offline delivery, real-time
+  updates, media handling, push notifications on iOS, snapshots, share links, demo content.
 - German as a fourth full language across site, apps, email, notifications and content.
 - Rebuilt map in the mobile app: category filters, camera list, preview markers, directions.
 - Full-screen landscape multi-camera view in the mobile app.
@@ -72,7 +72,7 @@ Apps carry their own version numbers and are listed under the release they shipp
 - **Mobile apps for iOS and Android**: catalogue, player, map, search, favourites, news, profile,
   three languages, themes, widgets, quick actions, voice shortcuts, picture-in-picture, offline
   saved cameras, cameras near you, camera submission, owner analytics, haptics, large-text support.
-- Sign in with Apple and Google, and in-app account deletion.
+- Sign in with Apple on iOS and Google sign-in, and in-app account deletion.
 - Live viewer counts and live reactions on camera pages.
 - Camera reporting for viewers.
 - First-party promotional slots on the website.

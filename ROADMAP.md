@@ -26,12 +26,16 @@
 Counting and detection that runs on camera feeds we already carry, so a business can get numbers
 out of a camera it already owns. In development, not yet available to customers.
 
-**Android release of the mobile app.**
-The iOS app is live. The Android build exists and is being prepared for store release.
+**The 1.2 app release and the Google Play listing.**
+The iOS and Android apps are both publicly released, at version 1.1. Version 1.2 is built and in
+internal testing. The work now is submitting it to both stores and completing the Google Play
+listing text and screenshots.
 
 **VolveMenu rollout with first venues.**
-The product is live and running in real venues. The work now is onboarding, templates and the
-operational edges that only show up with real customers.
+The service and both apps are built, deployed and publicly released, and the product is running on
+trial screens with people we know. No commercial venue is using it yet. The work now is signing
+the first venues, then onboarding, templates and the operational edges that only show up with
+real customers.
 
 **Automated catalogue quality checks.**
 Cameras go offline, change address or degrade quietly. Making detection and recovery automatic
@@ -44,7 +48,7 @@ The analytics layer produces numbers. This turns them into something a non-techn
 reads daily.
 
 **Self-serve onboarding for venues.**
-Today a venue is set up with our help. The intent is for a venue to do it alone, in an evening.
+A venue would today be set up with our help. The intent is for a venue to do it alone, in an evening.
 
 **Wider camera-owner monetisation.**
 Owners can already publish and earn. There is more to do on placement, reporting and payout clarity.
