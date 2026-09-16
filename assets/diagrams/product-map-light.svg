@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 560" width="1160" height="560" role="img" aria-label="Volve Vision product map">
+  <defs>
+    <linearGradient id="hl" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2a6baa" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#2a6baa" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#2a6baa" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .l-t { font-family: ui-sans-serif, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    .l-eyebrow { font-size: 12px; letter-spacing: 1.6px; text-transform: uppercase; fill: #5b6673; font-weight: 600; }
+    .l-aud { font-size: 15px; fill: #16191c; font-weight: 600; }
+    .l-audsub { font-size: 12.5px; fill: #5b6673; }
+    .l-pname { font-size: 19px; fill: #16191c; font-weight: 700; }
+    .l-pdesc { font-size: 13px; fill: #5b6673; }
+    .l-chip { font-size: 11px; font-weight: 700; letter-spacing: .4px; }
+    .l-fname { font-size: 14px; fill: #16191c; font-weight: 600; }
+    .l-fsub { font-size: 12px; fill: #5b6673; }
+  </style>
+  <rect width="1160" height="560" rx="18" fill="#ffffff"/>
+  <rect x="0.5" y="0.5" width="1159" height="559" rx="18" fill="none" stroke="#dde7f0"/>
+
+  <text x="40" y="44" class="l-t l-eyebrow">Who it serves</text>
+  <g class="l-t">
+    <rect x="40" y="58" width="252" height="62" rx="12" fill="#f7fafd" stroke="#dde7f0"/>
+    <text x="60" y="84" class="l-aud">Viewers</text><text x="60" y="103" class="l-audsub">web and mobile audience</text>
+    <rect x="316" y="58" width="252" height="62" rx="12" fill="#f7fafd" stroke="#dde7f0"/>
+    <text x="336" y="84" class="l-aud">Camera owners</text><text x="336" y="103" class="l-audsub">publish and monetise a feed</text>
+    <rect x="592" y="58" width="252" height="62" rx="12" fill="#f7fafd" stroke="#dde7f0"/>
+    <text x="612" y="84" class="l-aud">Venues</text><text x="612" y="103" class="l-audsub">cafes, bars, retail screens</text>
+    <rect x="868" y="58" width="252" height="62" rx="12" fill="#f7fafd" stroke="#dde7f0"/>
+    <text x="888" y="84" class="l-aud">Businesses</text><text x="888" y="103" class="l-audsub">operational video insight</text>
+  </g>
+
+  <g stroke="#dde7f0" stroke-width="1.5" stroke-dasharray="4 5">
+    <path d="M166 120 L166 186"/><path d="M442 120 L442 186"/><path d="M718 120 L718 186"/><path d="M994 120 L994 186"/>
+  </g>
+
+  <text x="40" y="172" class="l-t l-eyebrow">Products</text>
+  <g class="l-t">
+    <rect x="40" y="186" width="252" height="150" rx="14" fill="#f7fafd" stroke="#2a6baa" stroke-opacity="0.55"/>
+    <rect x="40" y="186" width="252" height="3" rx="1.5" fill="#2a6baa"/>
+    <text x="60" y="222" class="l-pname">Web platform</text>
+    <text x="60" y="247" class="l-pdesc">Live camera catalogue,</text>
+    <text x="60" y="265" class="l-pdesc">maps, editorial, accounts</text>
+    <rect x="60" y="284" width="66" height="20" rx="10" fill="#3aa655" fill-opacity="0.18"/>
+    <text x="72" y="298" class="l-chip" fill="#1f7a3a">LIVE</text>
+
+    <rect x="316" y="186" width="252" height="150" rx="14" fill="#f7fafd" stroke="#2a6baa" stroke-opacity="0.55"/>
+    <rect x="316" y="186" width="252" height="3" rx="1.5" fill="#2a6baa"/>
+    <text x="336" y="222" class="l-pname">Mobile apps</text>
+    <text x="336" y="247" class="l-pdesc">iOS and Android clients</text>
+    <text x="336" y="265" class="l-pdesc">with offline and widgets</text>
+    <rect x="336" y="284" width="66" height="20" rx="10" fill="#3aa655" fill-opacity="0.18"/>
+    <text x="348" y="298" class="l-chip" fill="#1f7a3a">LIVE</text>
+
+    <rect x="592" y="186" width="252" height="150" rx="14" fill="#f7fafd" stroke="#2a6baa" stroke-opacity="0.55"/>
+    <rect x="592" y="186" width="252" height="3" rx="1.5" fill="#2a6baa"/>
+    <text x="612" y="222" class="l-pname">VolveMenu</text>
+    <text x="612" y="247" class="l-pdesc">Digital menu boards</text>
+    <text x="612" y="265" class="l-pdesc">for venue screens</text>
+    <rect x="612" y="284" width="66" height="20" rx="10" fill="#3aa655" fill-opacity="0.18"/>
+    <text x="624" y="298" class="l-chip" fill="#1f7a3a">LIVE</text>
+
+    <rect x="868" y="186" width="252" height="150" rx="14" fill="#f7fafd" stroke="#7c5cf0" stroke-opacity="0.5" stroke-dasharray="6 4"/>
+    <rect x="868" y="186" width="252" height="3" rx="1.5" fill="#7c5cf0"/>
+    <text x="888" y="222" class="l-pname">Video analytics</text>
+    <text x="888" y="247" class="l-pdesc">Counting and detection</text>
+    <text x="888" y="265" class="l-pdesc">on top of existing feeds</text>
+    <rect x="888" y="284" width="108" height="20" rx="10" fill="#7c5cf0" fill-opacity="0.18"/>
+    <text x="900" y="298" class="l-chip" fill="#5b3fd1">IN DEVELOPMENT</text>
+  </g>
+
+  <g stroke="#dde7f0" stroke-width="1.5" stroke-dasharray="4 5">
+    <path d="M166 336 L166 396"/><path d="M442 336 L442 396"/><path d="M718 336 L718 396"/><path d="M994 336 L994 396"/>
+  </g>
+
+  <text x="40" y="382" class="l-t l-eyebrow">Shared foundation</text>
+  <g class="l-t">
+    <rect x="40" y="396" width="1080" height="124" rx="14" fill="#f7fafd" stroke="#dde7f0"/>
+    <rect x="40" y="396" width="1080" height="3" rx="1.5" fill="url(#hl)"/>
+    <text x="72" y="436" class="l-fname">Camera catalogue</text>
+    <text x="72" y="457" class="l-fsub">98 countries, ~1,000 cities,</text>
+    <text x="72" y="474" class="l-fsub">continuously health-checked</text>
+    <text x="348" y="436" class="l-fname">Content and localisation</text>
+    <text x="348" y="457" class="l-fsub">Four languages across site,</text>
+    <text x="348" y="474" class="l-fsub">apps, email and notifications</text>
+    <text x="624" y="436" class="l-fname">Accounts and billing</text>
+    <text x="624" y="457" class="l-fsub">Sessions, subscriptions and</text>
+    <text x="624" y="474" class="l-fsub">owner payouts in one place</text>
+    <text x="900" y="436" class="l-fname">Operations console</text>
+    <text x="900" y="457" class="l-fsub">Moderation, publishing and</text>
+    <text x="900" y="474" class="l-fsub">quality dashboards</text>
+    <path d="M320 420 L320 496 M596 420 L596 496 M872 420 L872 496" stroke="#dde7f0" stroke-width="1"/>
+  </g>
+</svg>

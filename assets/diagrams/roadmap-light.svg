@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 380" width="1160" height="380" role="img" aria-label="Volve Vision roadmap: now, next, later">
+  <style>
+    .l-t { font-family: ui-sans-serif, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    .l-eyebrow { font-size: 12px; letter-spacing: 1.6px; text-transform: uppercase; fill: #5b6673; font-weight: 600; }
+    .l-col { font-size: 17px; font-weight: 700; }
+    .l-colsub { font-size: 12px; fill: #5b6673; }
+    .l-item { font-size: 13.5px; fill: #16191c; }
+    .l-foot { font-size: 12px; fill: #5b6673; }
+  </style>
+  <rect width="1160" height="380" rx="18" fill="#ffffff"/>
+  <rect x="0.5" y="0.5" width="1159" height="379" rx="18" fill="none" stroke="#dde7f0"/>
+  <text x="40" y="44" class="l-t l-eyebrow">Where we are heading</text>
+
+  <g class="l-t">
+    <rect x="40" y="66" width="346" height="230" rx="14" fill="#f7fafd" stroke="#3aa655" stroke-opacity="0.45"/>
+    <rect x="40" y="66" width="346" height="3" rx="1.5" fill="#3aa655"/>
+    <text x="64" y="104" class="l-col" fill="#1f7a3a">Now</text>
+    <text x="64" y="124" class="l-colsub">in active development</text>
+    <g class="l-item">
+      <circle cx="70" cy="153" r="3" fill="#3aa655"/><text x="86" y="158">Video analytics on existing feeds</text>
+      <circle cx="70" cy="187" r="3" fill="#3aa655"/><text x="86" y="192">Android release of the mobile app</text>
+      <circle cx="70" cy="221" r="3" fill="#3aa655"/><text x="86" y="226">VolveMenu rollout with first venues</text>
+      <circle cx="70" cy="255" r="3" fill="#3aa655"/><text x="86" y="260">Automated catalogue quality checks</text>
+    </g>
+
+    <rect x="406" y="66" width="346" height="230" rx="14" fill="#f7fafd" stroke="#2a6baa" stroke-opacity="0.45"/>
+    <rect x="406" y="66" width="346" height="3" rx="1.5" fill="#2a6baa"/>
+    <text x="430" y="104" class="l-col" fill="#2a6baa">Next</text>
+    <text x="430" y="124" class="l-colsub">designed, not yet started</text>
+    <g class="l-item">
+      <circle cx="436" cy="153" r="3" fill="#2a6baa"/><text x="452" y="158">Business dashboards on camera data</text>
+      <circle cx="436" cy="187" r="3" fill="#2a6baa"/><text x="452" y="192">Self-serve onboarding for venues</text>
+      <circle cx="436" cy="221" r="3" fill="#2a6baa"/><text x="452" y="226">Wider camera-owner monetisation</text>
+      <circle cx="436" cy="255" r="3" fill="#2a6baa"/><text x="452" y="260">Partner and embed integrations</text>
+    </g>
+
+    <rect x="772" y="66" width="348" height="230" rx="14" fill="#f7fafd" stroke="#dde7f0" stroke-dasharray="6 4"/>
+    <rect x="772" y="66" width="348" height="3" rx="1.5" fill="#5b6673" fill-opacity="0.5"/>
+    <text x="796" y="104" class="l-col" fill="#5b6673">Later</text>
+    <text x="796" y="124" class="l-colsub">exploring, no commitment</text>
+    <g class="l-item">
+      <circle cx="802" cy="153" r="3" fill="#5b6673"/><text x="818" y="158">More languages and regions</text>
+      <circle cx="802" cy="187" r="3" fill="#5b6673"/><text x="818" y="192">Themed sites on the same platform</text>
+      <circle cx="802" cy="221" r="3" fill="#5b6673"/><text x="818" y="226">Public developer access</text>
+      <circle cx="802" cy="255" r="3" fill="#5b6673"/><text x="818" y="260">Hardware partnerships</text>
+    </g>
+  </g>
+  <rect x="40" y="316" width="1080" height="1" fill="#dde7f0"/>
+  <text x="40" y="348" class="l-t l-foot">This is a direction, not a commitment. Anything here can change, move or be dropped as we learn.</text>
+</svg>

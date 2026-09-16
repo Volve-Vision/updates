@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 300" width="1160" height="300" role="img" aria-label="Volve Vision catalogue in numbers">
+  <style>
+    .l-t { font-family: ui-sans-serif, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    .l-eyebrow { font-size: 12px; letter-spacing: 1.6px; text-transform: uppercase; fill: #5b6673; font-weight: 600; }
+    .l-num { font-size: 46px; fill: #16191c; font-weight: 800; letter-spacing: -1px; }
+    .l-unit { font-size: 14px; fill: #16191c; font-weight: 600; }
+    .l-sub { font-size: 12.5px; fill: #5b6673; }
+    .l-foot { font-size: 12.5px; fill: #5b6673; }
+  </style>
+  <rect width="1160" height="300" rx="18" fill="#ffffff"/>
+  <rect x="0.5" y="0.5" width="1159" height="299" rx="18" fill="none" stroke="#dde7f0"/>
+  <text x="40" y="44" class="l-t l-eyebrow">The catalogue today</text>
+
+  <g class="l-t">
+    <rect x="40" y="66" width="252" height="132" rx="14" fill="#f7fafd" stroke="#dde7f0"/>
+    <rect x="40" y="66" width="252" height="3" rx="1.5" fill="#2a6baa"/>
+    <text x="64" y="128" class="l-num">98</text>
+    <text x="64" y="152" class="l-unit">countries</text>
+    <text x="64" y="174" class="l-sub">every inhabited continent</text>
+
+    <rect x="316" y="66" width="252" height="132" rx="14" fill="#f7fafd" stroke="#dde7f0"/>
+    <rect x="316" y="66" width="252" height="3" rx="1.5" fill="#2a6baa"/>
+    <text x="340" y="128" class="l-num">~1,000</text>
+    <text x="340" y="152" class="l-unit">city pages</text>
+    <text x="340" y="174" class="l-sub">each with its own content</text>
+
+    <rect x="592" y="66" width="252" height="132" rx="14" fill="#f7fafd" stroke="#dde7f0"/>
+    <rect x="592" y="66" width="252" height="3" rx="1.5" fill="#2a6baa"/>
+    <text x="616" y="128" class="l-num">~5,000</text>
+    <text x="616" y="152" class="l-unit">published cameras</text>
+    <text x="616" y="174" class="l-sub">health-checked continuously</text>
+
+    <rect x="868" y="66" width="252" height="132" rx="14" fill="#f7fafd" stroke="#dde7f0"/>
+    <rect x="868" y="66" width="252" height="3" rx="1.5" fill="#2a6baa"/>
+    <text x="892" y="128" class="l-num">4</text>
+    <text x="892" y="152" class="l-unit">languages</text>
+    <text x="892" y="174" class="l-sub">EN, RU, ES, DE end to end</text>
+  </g>
+
+  <g class="l-t">
+    <rect x="40" y="220" width="1080" height="44" rx="12" fill="#2a6baa" fill-opacity="0.08"/>
+    <text x="64" y="248" class="l-foot" fill="#16191c">22,000+ pages published for search, each reachable in every language it has content for.</text>
+  </g>
+  <text x="40" y="286" class="l-t l-foot">Counted from our public sitemaps on 16 September 2026 - anyone can verify these numbers.</text>
+</svg>
