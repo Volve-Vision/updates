@@ -8,6 +8,32 @@ Apps carry their own version numbers and are listed under the release they shipp
 
 ---
 
+## [2026.10] - October 2026
+*In progress. VolveMenu 1.1 for iOS submitted to App Store review, not yet released*
+
+### Added
+- VolveMenu web workspace, signed in by scanning a code with the phone app.
+- VolveMenu dish catalogue shared by every menu, in six languages, with spreadsheet import and export.
+- Guest ordering from table tablets and per-table codes, and guest ratings and comments.
+- Scheduled menus by time and weather, timed promotions, chains of venues, team roles with owner approval.
+- A report of what every VolveMenu screen actually displayed, and a help centre for owners.
+
+### Changed
+- A temporarily offline camera keeps its search description during the outage.
+
+### Fixed
+- Several popular cameras that had gone dark were restored.
+
+### Performance
+- Pages no longer jump while advertising loads; more pages are served from the edge.
+
+### Reliability
+- Daily automated monitoring of search health.
+
+[Full detail](updates/2026/2026-10.md)
+
+---
+
 ## [2026.09] - September 2026
 *Mobile app 1.2, in internal testing and not yet released to the stores*
 

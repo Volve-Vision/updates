@@ -32,10 +32,10 @@ internal testing. The work now is submitting it to both stores and completing th
 listing text and screenshots.
 
 **VolveMenu rollout with first venues.**
-The service and both apps are built, deployed and publicly released, and the product is running on
-trial screens with people we know. No commercial venue is using it yet. The work now is signing
-the first venues, then onboarding, templates and the operational edges that only show up with
-real customers.
+The service, the web workspace and both apps are built and deployed, and the product is running on
+trial screens with people we know. No commercial venue is using it yet. Version 1.1 of the
+management app is in App Store review. The work now is signing the first venues, then onboarding
+and the operational edges that only show up with real customers.
 
 **Automated catalogue quality checks.**
 Cameras go offline, change address or degrade quietly. Making detection and recovery automatic

@@ -20,10 +20,29 @@ venue is using it yet.
 - Prices are optional per template, because not every screen is a price list.
 - A shareable read-only view, so a menu can be sent to someone without giving them access.
 - Every new account starts with finished demo menus, so the product is never empty on first open.
+- A web workspace for running the venue from a computer, alongside the phone app.
+- Guests order from the table and leave ratings; orders reach the staff with the table number.
+- Schedules, timed promotions, chains of venues and team roles with owner approval.
 
 ---
 
 ## History
+
+### October 2026
+
+The web workspace and help centre are live. The management app changes are in version 1.1, submitted
+to App Store review and not yet released; the Android build is not yet in Google Play.
+
+- **Added** a web workspace, signed in by scanning a code with the phone app.
+- **Added** one catalogue of dishes per venue, used by every menu, in six languages, with
+  spreadsheet and point-of-sale import, a check before changes and a one-step undo.
+- **Added** guest ordering from table tablets and per-table codes, with the table number on every order.
+- **Added** guest ratings and comments.
+- **Added** scheduled menus by time and weather, timed promotions and an urgent message on every screen.
+- **Added** chains of venues with shared menus and their own prices and stop lists.
+- **Added** team roles, with owner approval of changes made by managers.
+- **Added** a report of what each screen actually displayed.
+- **Added** a help centre for owners.
 
 ### September 2026
 

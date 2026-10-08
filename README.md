@@ -8,7 +8,7 @@
 [![Products](https://img.shields.io/badge/surfaces-6-2a6baa?style=flat-square)](products/README.md)
 [![Languages](https://img.shields.io/badge/languages-EN%20·%20RU%20·%20ES%20·%20DE-2a6baa?style=flat-square)](#the-catalogue-today)
 [![Countries](https://img.shields.io/badge/countries-98-2a6baa?style=flat-square)](#the-catalogue-today)
-[![Updated](https://img.shields.io/badge/updated-September%202026-6b7683?style=flat-square)](updates/2026/2026-09.md)
+[![Updated](https://img.shields.io/badge/updated-October%202026-6b7683?style=flat-square)](updates/2026/2026-10.md)
 
 </div>
 
@@ -96,6 +96,7 @@ Full detail, including what each column means: [ROADMAP.md](ROADMAP.md).
 
 ### Recent months
 
+- [October 2026](updates/2026/2026-10.md) - VolveMenu web workspace, guest ordering and team controls (in progress)
 - [September 2026](updates/2026/2026-09.md) - account security across every client, catalogue reliability, search visibility
 - [August 2026](updates/2026/2026-08.md) - VolveMenu goes live, German becomes the fourth full language
 - [July 2026](updates/2026/2026-07.md) - the mobile apps take shape
