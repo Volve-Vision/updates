@@ -43,6 +43,9 @@ to App Store review and not yet released; the Android build is not yet in Google
 - **Added** team roles, with owner approval of changes made by managers.
 - **Added** a report of what each screen actually displayed.
 - **Added** a help centre for owners.
+- **Added** an overview page with setup steps for a new venue and today at a glance for every venue.
+- **Added** a search box that finds sections, dishes, menus, screens and common tasks.
+- **Changed** empty sections explain what belongs there and offer the next step; sections show a short hint on the first visit.
 
 ### September 2026
 

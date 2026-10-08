@@ -17,6 +17,7 @@ Apps carry their own version numbers and are listed under the release they shipp
 - Guest ordering from table tablets and per-table codes, and guest ratings and comments.
 - Scheduled menus by time and weather, timed promotions, chains of venues, team roles with owner approval.
 - A report of what every VolveMenu screen actually displayed, and a help centre for owners.
+- VolveMenu overview page with self-checking setup steps, and a search box across the workspace.
 
 ### Changed
 - A temporarily offline camera keeps its search description during the outage.
