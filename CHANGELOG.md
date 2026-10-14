@@ -19,8 +19,10 @@ Apps carry their own version numbers and are listed under the release they shipp
 - A report of what every VolveMenu screen actually displayed, and a help centre for owners.
 - VolveMenu overview page with self-checking setup steps, and a search box across the workspace.
 - VolveMenu guided new-menu flow with a live preview of the screen.
+- VolveMenu: guests can call a waiter or ask for the bill, by card or cash, from a table tablet or the table QR code. The call reaches staff on the orders board and as a phone notification, and the guest sees when someone is on the way.
 
 ### Changed
+- VolveMenu: the browser screen picks up menu changes at once and keeps promotions and temporarily unavailable dishes right even without a connection.
 - A temporarily offline camera keeps its search description during the outage.
 
 ### Fixed
