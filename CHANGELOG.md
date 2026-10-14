@@ -9,7 +9,7 @@ Apps carry their own version numbers and are listed under the release they shipp
 ---
 
 ## [2026.10] - October 2026
-*In progress. VolveMenu 1.1 for iOS submitted to App Store review, not yet released*
+*In progress. VolveMenu 1.1 for iOS, released on the App Store on 2026-10-09*
 
 ### Added
 - VolveMenu web workspace, signed in by scanning a code with the phone app.
@@ -18,6 +18,7 @@ Apps carry their own version numbers and are listed under the release they shipp
 - Scheduled menus by time and weather, timed promotions, chains of venues, team roles with owner approval.
 - A report of what every VolveMenu screen actually displayed, and a help centre for owners.
 - VolveMenu overview page with self-checking setup steps, and a search box across the workspace.
+- VolveMenu guided new-menu flow with a live preview of the screen.
 
 ### Changed
 - A temporarily offline camera keeps its search description during the outage.

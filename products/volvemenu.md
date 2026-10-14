@@ -30,8 +30,8 @@ venue is using it yet.
 
 ### October 2026
 
-The web workspace and help centre are live. The management app changes are in version 1.1, submitted
-to App Store review and not yet released; the Android build is not yet in Google Play.
+The web workspace and help centre are live. The management app changes are in version 1.1, released on
+the App Store on 2026-10-09; the Android build is not yet in Google Play.
 
 - **Added** a web workspace, signed in by scanning a code with the phone app.
 - **Added** one catalogue of dishes per venue, used by every menu, in six languages, with
@@ -45,6 +45,7 @@ to App Store review and not yet released; the Android build is not yet in Google
 - **Added** a help centre for owners.
 - **Added** an overview page with setup steps for a new venue and today at a glance for every venue.
 - **Added** a search box that finds sections, dishes, menus, screens and common tasks.
+- **Added** a guided new-menu flow in three steps with a live picture of the screen.
 - **Changed** empty sections explain what belongs there and offer the next step; sections show a short hint on the first visit.
 
 ### September 2026
