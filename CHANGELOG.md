@@ -19,6 +19,8 @@ Apps carry their own version numbers and are listed under the release they shipp
 - A report of what every VolveMenu screen actually displayed, and a help centre for owners.
 - VolveMenu overview page with self-checking setup steps, and a search box across the workspace.
 - VolveMenu guided new-menu flow with a live preview of the screen.
+- VolveMenu: after rating the place, guests are offered the venue's Google review page, prominently after a good rating.
+- VolveMenu: the table QR menu shows the venue's Wi-Fi with a copy button, opening hours, phone, address and social links, filled in by the owner in the web workspace.
 - VolveMenu: guests can call a waiter or ask for the bill, by card or cash, from a table tablet or the table QR code. The call reaches staff on the orders board and as a phone notification, and the guest sees when someone is on the way.
 
 ### Changed
