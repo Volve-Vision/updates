@@ -8,6 +8,22 @@ Apps carry their own version numbers and are listed under the release they shipp
 
 ---
 
+## [2026.11] - November 2026
+*In progress. The new VolveMenu phone screens are built and not yet in the stores*
+
+### Added
+- VolveMenu: a venue's website run from the web workspace: notice with a last day, special days in the visitor's language, price, rating, quotes and photos by place.
+- VolveMenu: requests from the website in the workspace, with a phone notification on iOS, and the site's counters for the last 30 days.
+- VolveMenu: several owners on one venue, invited by link or chosen in the team list.
+- VolveMenu: API keys per venue.
+
+### Reliability
+- VolveMenu: a connected website keeps showing the last good menu if the service does not answer.
+
+[Full detail](updates/2026/2026-11.md)
+
+---
+
 ## [2026.10] - October 2026
 *In progress. VolveMenu 1.1 for iOS, released on the App Store on 2026-10-09*
 
@@ -22,6 +38,9 @@ Apps carry their own version numbers and are listed under the release they shipp
 - VolveMenu: after rating the place, guests are offered the venue's Google review page, prominently after a good rating.
 - VolveMenu: the table QR menu shows the venue's Wi-Fi with a copy button, opening hours, phone, address and social links, filled in by the owner in the web workspace.
 - VolveMenu: guests can call a waiter or ask for the bill, by card or cash, from a table tablet or the table QR code. The call reaches staff on the orders board and as a phone notification, and the guest sees when someone is on the way.
+
+- VolveMenu: guests can filter the table QR menu by allergens and diet.
+- VolveMenu: the owner's report shows how the table QR menu is used: scans, guests, and the share of guests who ordered.
 
 ### Changed
 - VolveMenu: the browser screen picks up menu changes at once and keeps promotions and temporarily unavailable dishes right even without a connection.

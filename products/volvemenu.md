@@ -28,7 +28,16 @@ venue is using it yet.
 
 ## History
 
+### November 2026
+
+- **Added** a "Site" section in the web workspace: a venue's website run from one place, with a notice, special
+  days, price, rating, quotes, photos by place, requests and counters.
+- **Added** several owners on one venue, and API keys per venue.
+- **Added** the same section and a venue details screen in the phone app, built and not yet in the stores.
+- **Changed** requests from a website now reach the team as a phone notification on iOS.
+
 ### October 2026
+
 
 The web workspace and help centre are live. The management app changes are in version 1.1, released on
 the App Store on 2026-10-09; the Android build is not yet in Google Play.

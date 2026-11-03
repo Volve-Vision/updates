@@ -7,6 +7,7 @@ Every month, what shipped. Newest first. Format and categories are described in
 
 | Month | Release | What it was about |
 |---|---|---|
+| [November](2026/2026-11.md) | `2026.11` | A venue's website run from VolveMenu; several owners on a venue (in progress) |
 | [October](2026/2026-10.md) | `2026.10` | VolveMenu becomes a full venue toolkit: web workspace, guest ordering, team controls (in progress) |
 | [September](2026/2026-09.md) | `2026.09` | Account security on every client; a flapping source stops looking like dead cameras |
 | [August](2026/2026-08.md) | `2026.08` | VolveMenu ships end to end; German becomes a full language |
