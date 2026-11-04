@@ -4,8 +4,9 @@
 retail. A screen on the wall, a phone in the owner's pocket, and nothing in between.
 
 Built in August 2026. The service runs in production and the management app is published on the
-App Store and Google Play. It is running on trial screens with people we know. No commercial
-venue is using it yet.
+App Store and Google Play. It runs the live menu, the website and the takeaway orders of its first
+commercial venue, a self-service canteen in Ivano-Frankivsk. Screens are still on trial with people
+we know: that venue has none yet.
 
 ---
 
