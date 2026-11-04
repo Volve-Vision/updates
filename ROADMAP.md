@@ -26,10 +26,10 @@
 Counting and detection that runs on camera feeds we already carry, so a business can get numbers
 out of a camera it already owns. In development, not yet available to customers.
 
-**The 1.2 app release and the Google Play listing.**
-The iOS and Android apps are both publicly released, at version 1.1. Version 1.2 is built and in
-internal testing. The work now is submitting it to both stores and completing the Google Play
-listing text and screenshots.
+**The Android release.**
+The iOS app is on the App Store at version 2.1, with 2.1.1 in App Review. Google Play is still at
+version 1.1, and Android 2.1 is in internal testing. The work now is bringing Android up to the iOS
+version.
 
 **VolveMenu rollout with first venues.**
 The service, the web workspace and both apps are built and deployed, and the product is running on

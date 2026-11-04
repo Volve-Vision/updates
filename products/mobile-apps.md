@@ -2,8 +2,9 @@
 
 Native iOS and Android clients for the camera catalogue. Development started in July 2026. Both
 apps are publicly available: the iOS app has been on the App Store since 29 July 2026 and the
-Android app on Google Play since 22 July 2026. The published version on both stores is **1.1**.
-Version 1.2 is built and in internal testing, and has not been submitted to either store.
+Android app on Google Play since 22 July 2026. The published iOS version is **2.1**, released on
+4 November 2026, and 2.1.1 is in App Review. The published Android version is **1.1**; Android 2.1
+is in internal testing.
 
 ---
 
@@ -16,16 +17,39 @@ Version 1.2 is built and in internal testing, and has not been submitted to eith
 - Multi-camera view for watching several feeds at once.
 - Offline access to saved cameras.
 - Account, notifications and security settings shared with the website.
-- Four languages, matching the site, with the device language detected automatically.
+- 36 interface languages on iOS, with the device language detected automatically. The Android
+  public version has four.
+- Volve Pro on iOS: an optional subscription without ads before cameras.
 
 ---
 
 ## Release history
 
-### 1.2 - built September 2026, not yet in the stores
+### 2.1.1 - iOS, in App Review
 
-This release is complete and in internal testing. It has not been submitted to the App Store or
-uploaded to Google Play, so the items below are not yet in the public apps.
+Submitted on 4 November 2026 and not yet available.
+
+- **Fixed** country borders and labels on the map and the planet.
+
+### 2.1 - iOS, 4 November 2026
+
+- **Added** Volve Pro, an optional subscription that removes the ads before cameras.
+- **Added** a full screen button for every camera.
+- **Added** a phone notification when someone replies to a comment, with a switch in settings.
+- **Changed** a camera swiped down now shrinks into a bar above the tabs while you browse.
+
+### 2.0 - iOS, live by 2 November 2026
+
+- **Added** Planet now: aurora forecast, waves, weather, travel advice and live cloud cover on one map.
+- **Added** a new Home with a day and night band, Golden hour now, Surprise me and Continue watching.
+- **Added** conditions on camera pages: weather, waves, aurora after dark and travel advice.
+- **Added** live event boards with up to four streams, and AI moments from cameras worldwide.
+- **Added** 36 languages, iPad layouts, and sign-in with Apple, Google or email.
+
+### 1.2 - built September 2026, never released on its own
+
+This release stayed in internal testing and was never submitted to a store. Its items reached iOS
+users through version 2.0.
 
 - **Added** the account security centre: sessions across all devices, recent security events,
   and remote sign-out.
