@@ -9,11 +9,12 @@ Apps carry their own version numbers and are listed under the release they shipp
 ---
 
 ## [2026.11] - November 2026
-*In progress. iOS app 2.1 is on the App Store, iOS 2.1.1 is in App Review, Google Play is still at 1.1. The new VolveMenu phone screens are built and not yet in the stores*
+*In progress. iOS app 2.1 is on the App Store, iOS 2.1.1 is in App Review, Android app 2.1.1 is on Google Play. The new VolveMenu phone screens are built and not yet in the stores*
 
 ### Added
 - Mobile apps, iOS 2.1: Volve Pro, an optional subscription without ads before cameras.
-- Mobile apps, iOS 2.1: a full screen button for every camera, a camera that shrinks into a bar above the tabs, and a phone notification for replies to a comment.
+- Mobile apps, iOS 2.1 and Android 2.1.1: a full screen button for every camera, a camera that shrinks into a bar above the tabs, and a phone notification for replies to a comment.
+- Mobile apps, Android 2.1.1 on Google Play: Planet now, the new Home, live event boards and 36 languages, moving the public Android app on from 1.1.
 - VolveMenu: a venue's website run from the web workspace: notice with a last day, special days in the visitor's language, price, rating, quotes and photos by place.
 - VolveMenu: requests from the website in the workspace, with a phone notification on iOS, and the site's counters for the last 30 days.
 - VolveMenu: several owners on one venue, invited by link or chosen in the team list.
@@ -21,7 +22,7 @@ Apps carry their own version numbers and are listed under the release they shipp
 
 ### Fixed
 - Web platform: a wrong regional label on the map.
-- Mobile apps, iOS 2.1.1, in App Review and not yet available: country borders and labels on the map and the planet.
+- Mobile apps, Android 2.1.1 on Google Play, and iOS 2.1.1, in App Review and not yet available: country borders and labels on the map and the planet.
 
 ### Reliability
 - VolveMenu: a connected website keeps showing the last good menu if the service does not answer.

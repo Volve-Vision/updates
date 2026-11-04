@@ -26,11 +26,6 @@
 Counting and detection that runs on camera feeds we already carry, so a business can get numbers
 out of a camera it already owns. In development, not yet available to customers.
 
-**The Android release.**
-The iOS app is on the App Store at version 2.1, with 2.1.1 in App Review. Google Play is still at
-version 1.1, and Android 2.1 is in internal testing. The work now is bringing Android up to the iOS
-version.
-
 **VolveMenu rollout with first venues.**
 The service, the web workspace and both apps are built and deployed. It runs the live menu, the
 website and the takeaway orders of its first commercial venue, a self-service canteen in

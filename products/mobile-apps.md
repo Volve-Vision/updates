@@ -3,8 +3,8 @@
 Native iOS and Android clients for the camera catalogue. Development started in July 2026. Both
 apps are publicly available: the iOS app has been on the App Store since 29 July 2026 and the
 Android app on Google Play since 22 July 2026. The published iOS version is **2.1**, released on
-4 November 2026, and 2.1.1 is in App Review. The published Android version is **1.1**; Android 2.1
-is in internal testing.
+4 November 2026, and 2.1.1 is in App Review. The published Android version is **2.1.1**, released
+on 4 November 2026.
 
 ---
 
@@ -17,17 +17,18 @@ is in internal testing.
 - Multi-camera view for watching several feeds at once.
 - Offline access to saved cameras.
 - Account, notifications and security settings shared with the website.
-- 36 interface languages on iOS, with the device language detected automatically. The Android
-  public version has four.
+- 36 interface languages, with the device language detected automatically.
 - Volve Pro on iOS: an optional subscription without ads before cameras.
 
 ---
 
 ## Release history
 
-### 2.1.1 - iOS, in App Review
+### 2.1.1 - Android, 4 November 2026; iOS, in App Review
 
-Submitted on 4 November 2026 and not yet available.
+On Android this is the first public update since 1.1. It carries the items of 1.2, 2.0 and 2.1 below,
+except Volve Pro, iPad layouts and sign-in with Apple. On iOS it was submitted on 4 November 2026 and is
+not yet available.
 
 - **Fixed** country borders and labels on the map and the planet.
 
@@ -49,7 +50,7 @@ Submitted on 4 November 2026 and not yet available.
 ### 1.2 - built September 2026, never released on its own
 
 This release stayed in internal testing and was never submitted to a store. Its items reached iOS
-users through version 2.0.
+users through version 2.0 and Android users through version 2.1.1.
 
 - **Added** the account security centre: sessions across all devices, recent security events,
   and remote sign-out.
